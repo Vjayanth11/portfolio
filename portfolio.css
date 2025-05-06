@@ -5,7 +5,7 @@
 
 .res-cont{
     width: 70%;
-    border: 2px solid black;
+    border: 2px solid rgb(122, 136, 228);
     display: flex;
     border-radius: 20px;
     background-color: black;
